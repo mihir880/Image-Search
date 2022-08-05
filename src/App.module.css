@@ -1,0 +1,10 @@
+.no_results_found {
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  background-color: #ee0606;
+  color: yellow;
+}
